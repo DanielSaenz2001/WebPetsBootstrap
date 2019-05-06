@@ -1,0 +1,45 @@
+header {
+    background-image: url(img/header-bg.png);
+}
+.cart{
+    background-image: url("img/cart-bg.png");
+    width: 70px;
+    height: 82px;
+    font-size: 2.5em;
+    color: white;
+}
+#numero{
+    padding: 10px;
+
+}
+#titulo{
+    background: #0b5c22;
+    color:white;
+    margin: auto;
+}
+#numero2{
+    margin: auto;
+    font-size: 130%;
+}
+#lista{
+    margin: auto;
+    font-size: 130%;
+}
+#navegador{
+    margin-bottom: 2%;
+}
+#buscar{
+    margin-top: 10% !important;
+}
+#hola{
+    margin: auto;
+    text-align: center;
+    background: #0b5c22;
+    color: white;
+}
+nav a:hover{
+	background-color: #f8f8f8;
+	color: #5aae32 !important ;
+    padding: 1% 1% 2% 1%;
+	font-weight: bold;
+}
