@@ -86,4 +86,13 @@ nav a:hover{
     background: black;
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid black;
+    border-radius: 10px 10px;
+}
+.des{
+    margin-top: 5%;
+    text-align: center;
+}
+.todo{
+    margin:auto;
 }
