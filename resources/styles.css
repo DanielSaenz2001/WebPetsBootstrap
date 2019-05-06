@@ -51,11 +51,21 @@ nav a:hover{
     color: black !important;
 }
 .imagenes{
-    
+    display: flex;
+    flex-flow: row wrap;
 }
 .productos{
-
+    flex: 25%;
+    border: 2px solid #0b5c22;
+    border-radius: 10px 10px;
 }
-#img01{
-    border: 1px solid #0b5c22;
+
+#img01:hover{
+    transform: rotate(10deg);
+}
+.container{
+    background: #f3f3f3;
+}
+#asd{
+    text-align: center;
 }
