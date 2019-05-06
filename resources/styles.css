@@ -68,4 +68,22 @@ nav a:hover{
 }
 #asd{
     text-align: center;
+        width: 80%;
+    margin: auto;
+    height: 80%;
+}
+.info{
+    margin: auto;
+    text-align: center;
+    margin-bottom: 2%;
+}
+.info p{
+    margin-bottom: -1%;
+} 
+.desc{
+    text-align: center;
+    width: 100%;
+    background: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
