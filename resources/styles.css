@@ -43,3 +43,19 @@ nav a:hover{
     padding: 1% 1% 2% 1%;
 	font-weight: bold;
 }
+#pala{
+    margin: auto;
+    text-align: right;
+}
+#pala a{
+    color: black !important;
+}
+.imagenes{
+    
+}
+.productos{
+
+}
+#img01{
+    border: 1px solid #0b5c22;
+}
