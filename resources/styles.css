@@ -25,6 +25,15 @@ header {
     margin: auto;
     font-size: 130%;
 }
+#zzz{
+    margin-top: 4%;
+}
+#qqq{
+    margin: auto;
+    text-align: center;
+    background: #0b5c22;
+    color: white;
+}
 #navegador{
     margin-bottom: 2%;
 }
@@ -47,6 +56,21 @@ nav a:hover{
     margin: auto;
     text-align: right;
 }
+#ddd{
+    margin: auto;
+    text-align: right;
+}
+#aaa{
+    text-align: center;
+    margin: auto;
+}
+#ccc{
+    background: #0b5c22;
+    color: white;
+}
+#ddd a{
+    color: black !important;
+}
 #pala a{
     color: black !important;
 }
@@ -55,11 +79,11 @@ nav a:hover{
     flex-flow: row wrap;
 }
 .productos{
-    flex: 25%;
+    flex: 20%;
     border: 2px solid #0b5c22;
     border-radius: 10px 10px;
+   
 }
-
 #img01:hover{
     transform: rotate(10deg);
 }
@@ -68,7 +92,6 @@ nav a:hover{
 }
 #asd{
     text-align: center;
-        width: 80%;
     margin: auto;
     height: 80%;
 }
@@ -95,4 +118,19 @@ nav a:hover{
 }
 .todo{
     margin-top: 10%;
+}
+.productos img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#hhh{
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+#dada{
+    margin: auto;
+    text-align: center;
+    width: 80%;
 }
