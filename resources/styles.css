@@ -138,3 +138,12 @@ nav a:hover{
 body{
     background: black;
 }
+.loader{
+    width: 100%;
+    margin: auto;
+}
+.loader img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
