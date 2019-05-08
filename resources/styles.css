@@ -7,7 +7,12 @@ header {
     height: 82px;
     font-size: 2.5em;
     color: white;
+    margin-left: auto;
+    display: block;
 }
+
+    
+
 #numero{
     padding: 10px;
 
@@ -141,9 +146,20 @@ body{
 .loader{
     width: 100%;
     margin: auto;
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .loader img{
     margin-left: auto;
     margin-right: auto;
     display: block;
+    width: 100%;
+}
+.textoo{
+    margin-top: 2%;
+}
+#aaa{
+    text-align: right;
+    color: #0b5c22;
 }
